@@ -1,0 +1,19 @@
+{
+  "manifest_version": 1,
+  "type": "extension",
+  "name": "bilibili_external",
+  "slug": "bilibili_external",
+  "description": "自动用浏览器打开B站小程序视频",
+  "version": "0.1.0",
+  "author": [
+    {
+      "name": "XiaoHe321",
+      "link": "https://github.com/xh321"
+    }
+  ],
+  "injects": {
+    "renderer": "./renderer.js",
+    "main": "./main.js",
+    "preload": "./preload.js"
+  }
+}
