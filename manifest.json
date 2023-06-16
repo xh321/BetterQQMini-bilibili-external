@@ -4,7 +4,7 @@
   "name": "bilibili_external",
   "slug": "bilibili_external",
   "description": "自动用浏览器打开B站小程序视频",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": [
     {
       "name": "XiaoHe321",
